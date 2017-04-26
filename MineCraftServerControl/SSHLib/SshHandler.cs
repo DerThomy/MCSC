@@ -8,6 +8,6 @@ namespace SSHLib
 {
     public static class SshHandler
     {
-
+        const int test = 2;
     }
 }
